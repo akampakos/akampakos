@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from Greece
+I am a software engineer from Greece
 - 🔭 Working on multiple frontend and backend project using Angular and Flask
 - 🌱 Learning design patterns in depth
 <br>
