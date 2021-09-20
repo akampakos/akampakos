@@ -20,6 +20,12 @@ I am a fullstack software engineer from Greece
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/oracle-%2312100E.svg?&style=for-the-badge&logo=oracle&logoColor=orange" />
+<img align="left" alt="oracle" src="https://img.shields.io/badge/oracle-%2312100E.svg?&style=for-the-badge&logo=oracle&logoColor=orange" />
+
+<img align="left" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+<img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <br>
 <br>
