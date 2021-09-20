@@ -16,6 +16,10 @@ I am a fullstack software engineer from Greece
 <br>
 
 ## Expertise
+
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+<img align="left" alt="medium" src="https://img.shields.io/badge/oracle-%23316192.svg?&style=for-the-badge&logo=oracle&logoColor=orange" />
 <br>
 <br>
