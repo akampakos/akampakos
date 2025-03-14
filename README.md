@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a software engineer from Greece
-- 🔭 Working on multiple frontend and backend project using Angular and Flask
+- 🔭 Working on multiple frontend and backend project using Angular and .net
 - 🌱 Learning design patterns in depth
 <br>
 
